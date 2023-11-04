@@ -1,0 +1,51 @@
+.
+├── automation_projects
+│   ├── treasurehunt
+│   │   ├── go.mod
+│   │   ├── go.sum
+│   │   ├── main.go
+│   │   ├── README.md
+│   │   ├── templates
+│   │   │   └── index.html
+│   │   └── treasures
+│   │       └── treasures.go
+│   └── webscrapers
+│       ├── daily_fungi_info.txt
+│       ├── daily_tree_info.txt
+│       ├── moon_man_info.txt
+│       └── nba_scores.txt
+├── cli_projects
+│   └── file_read_averager.txt
+├── cloud_projects
+│   └── aws
+│       ├── 01_aws-s3
+│       │   ├── 14.png
+│       │   ├── 9.png
+│       │   ├── cloud_2.png
+│       │   ├── files
+│       │   │   ├── 14.png
+│       │   │   ├── 9.png
+│       │   │   ├── cloud_2.png
+│       │   │   ├── gopher_.png
+│       │   │   ├── linux1.jpg
+│       │   │   └── rounded_marcus1.png
+│       │   ├── go.mod
+│       │   ├── gopher_.png
+│       │   ├── go.sum
+│       │   ├── linux1.jpg
+│       │   ├── main.go
+│       │   └── rounded_marcus1.png
+│       ├── 02_aws-elastic-beanstalk
+│       ├── 03_eb-go
+│       │   ├── application.go
+│       │   └── Golang-AWS-EB-Deployment.drawio.png
+│       ├── go.mod
+│       └── go.sum
+├── embedded_projects
+│   └── db_monitor.txt
+├── networking_projects
+│   ├── ssh_testing.txt
+│   └── zeromq_testing.txt
+└── up_coming-existing_projects.txt
+
+15 directories, 33 files
