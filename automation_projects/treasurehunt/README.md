@@ -15,6 +15,9 @@ ________________________________________________________________________________
 
 ## FUTURE ENHANCEMENTS:
  -- Add a database to store the spiritual treasures and location of where the treasures were hidden.
+ 
  -- Send the Scripture via sms message to my phone, using aws or someother cloud provided solution.
+ 
  -- Add jwt authentication to the endpoint where this is deployed for security.
+ 
  -- Add a cron job to run my curl command weekly vs manually running the command.
